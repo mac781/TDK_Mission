@@ -1,0 +1,5 @@
+../Core/Src/whiteBalance.cpp:24:6:void W_TSC_FilterColor(bool, bool)	16	static
+../Core/Src/whiteBalance.cpp:37:6:void W_TSC_WB(bool, bool)	16	static
+../Core/Src/whiteBalance.cpp:43:6:void W_TSC_Callback()	8	static
+../Core/Src/whiteBalance.cpp:71:6:void W_colorSensor_setup()	16	static
+../Core/Src/whiteBalance.cpp:91:6:void W_colorSensor()	16	static

@@ -1,0 +1,11 @@
+../Core/Src/motor.cpp:43:6:void DCmotor_setup()	8	static
+../Core/Src/motor.cpp:52:6:void PI_control_run(DC_motor*, float)	32	static
+../Core/Src/motor.cpp:80:6:void getState(DC_motor*, int)	24	static
+../Core/Src/motor.cpp:88:6:void updateLocation(uint16_t)	16	static
+../Core/Src/motor.cpp:130:6:bool reach_destination(DC_motor*)	16	static
+../Core/Src/motor.cpp:138:6:void DCmotor_run()	8	static
+../Core/Src/motor.cpp:150:6:void gotoTargetLocation(DC_motor*, float*)	16	static
+../Core/Src/motor.cpp:171:6:void setTargetLocation(DC_motor*, int)	16	static
+../Core/Src/motor.cpp:179:6:void DCMOTOR_TEST()	8	static
+../Core/Src/motor.cpp:186:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/motor.cpp:186:1:cpp)	8	static

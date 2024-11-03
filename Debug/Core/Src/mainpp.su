@@ -1,0 +1,8 @@
+../Core/Src/mainpp.cpp:48:6:void setup()	8	static
+../Core/Src/mainpp.cpp:58:5:int divide(int, int*)	16	static
+../Core/Src/mainpp.cpp:69:6:void wait(int)	16	static
+../Core/Src/mainpp.cpp:80:6:void main_function()	8	static
+../Core/Src/mainpp.cpp:148:6:void TEST_MODE()	8	static
+../Core/Src/mainpp.cpp:156:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+../Core/Src/mainpp.cpp:187:6:void reset(uint16_t)	16	static
+../Core/Src/mainpp.cpp:256:6:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static

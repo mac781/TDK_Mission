@@ -1,0 +1,11 @@
+../Core/Src/UART_servo.cpp:19:6:void UART_Send(uint8_t)	24	static
+../Core/Src/UART_servo.cpp:24:6:void UART_Send_SetMotorPosition(uint16_t, uint16_t, uint16_t)	16	static
+../Core/Src/UART_servo.cpp:36:6:void claw_Delay_Count(Arm*)	16	static
+../Core/Src/UART_servo.cpp:54:6:void arm_move(Arm*, int)	16	static
+../Core/Src/UART_servo.cpp:60:6:void ARM_RUN()	8	static
+../Core/Src/UART_servo.cpp:75:6:void pos_control(Arm*)	16	static
+../Core/Src/UART_servo.cpp:94:6:void claw(Arm*)	16	static
+../Core/Src/UART_servo.cpp:105:6:void upadate_pos(Arm*, int)	16	static
+../Core/Src/UART_servo.cpp:111:6:void update_claw(Arm*, bool)	16	static
+../Core/Src/UART_servo.cpp:120:6:void arm_test(Arm*, int, int)	24	static
+../Core/Src/UART_servo.cpp:125:6:void ARM_TEST()	8	static
